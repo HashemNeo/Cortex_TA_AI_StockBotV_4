@@ -10,23 +10,13 @@
 
 *Explore the interactive dashboard, real-time tracking metrics, and dynamic algorithmic signal panels.*
 
-```markdown
 <p align="center">
   <img src="assets/gui_demo.gif" alt="Cortex GUI Dashboard Interface" width="100%">
 </p>
 
-```
+
 
 ### ⚙️ Codebase & Core Execution Pipeline
-
-*Observe the underlying multi-threaded data ingestion pipeline, technical indicator vectors, and AI context engineering cycles.*
-
-```markdown
-<p align="center">
-  <img src="assets/codebase_demo.gif" alt="Cortex Codebase Execution Frame" width="100%">
-</p>
-
-```
 
 ---
 
